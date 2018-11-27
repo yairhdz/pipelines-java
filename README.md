@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yhernandezgext/pipeline_example/_apis/build/status/yairhdz.pipelines-java)](https://dev.azure.com/yhernandezgext/pipeline_example/_build/latest?definitionId=6)
 
 # Contributing
 
